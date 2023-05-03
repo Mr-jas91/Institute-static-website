@@ -1,0 +1,74 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+* {
+    margin: 0;
+    padding: 0;
+    border-style: border-box;
+}
+
+table tr th {
+    text-align: center;
+    color: rgb(27, 213, 27);
+}
+
+table tr td {
+    padding: 10px;
+}
+
+.card-link:link {
+    text-decoration: none;
+}
+
+.card-link:hover {
+    color: green;
+}
+
+.card-link {
+    color: rgb(37, 215, 31);
+}
+
+.coureses-list ul li {
+    color: red;
+}
+
+.coureses-list h3 {
+    color: rgb(37, 215, 31);
+}
+
+.box-color p {
+    color: white;
+    text-align: center;
+}
+
+.box-color {
+    background-color: rgb(37, 215, 31);
+}
+
+.card-link-2:hover {
+    color: rgb(37, 215, 31);
+}
+
+.card-sty-bottom ul {
+    list-style-type: none;
+    color: white;
+}
+
+.card-sty-bottom {
+    background-color: black;
+    width: 100%;
+}
+
+.card-sty-bottom ul li {
+    padding: 10px;
+}
+
+.list-social-2 {
+    color: white;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
